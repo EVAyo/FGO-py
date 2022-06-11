@@ -1,10 +1,10 @@
 {
     "stopOnDefeated": true,
     "stopOnKizunaReisou": true,
-    "stayOnTop": true,
+    "stayOnTop": false,
     "closeToTray": false,
     "notifyEnable": false,
     "notifyParam": {
-        "scKey": ""
+        "scKey": "SCT91053TlHofudoatWndOHROs5UrP8pk"
     }
 }
